@@ -209,7 +209,7 @@ namespace Tanks
                 {
                     ""name"": """",
                     ""id"": ""ee2cffd9-3afd-46ec-b127-a87e2a15ce0d"",
-                    ""path"": ""<Keyboard>/e"",
+                    ""path"": ""<Keyboard>/q"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
