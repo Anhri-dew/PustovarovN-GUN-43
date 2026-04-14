@@ -1,0 +1,15 @@
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\bin\Debug\net8.0\MyFirsApp_Netologia.exe
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\bin\Debug\net8.0\MyFirsApp_Netologia.deps.json
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\bin\Debug\net8.0\MyFirsApp_Netologia.runtimeconfig.json
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\bin\Debug\net8.0\MyFirsApp_Netologia.dll
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\bin\Debug\net8.0\MyFirsApp_Netologia.pdb
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\obj\Debug\net8.0\MyFirsApp_Netologia.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\obj\Debug\net8.0\MyFirsApp_Netologia.AssemblyInfoInputs.cache
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\obj\Debug\net8.0\MyFirsApp_Netologia.AssemblyInfo.cs
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\obj\Debug\net8.0\MyFirsApp_Netologia.csproj.CoreCompileInputs.cache
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\obj\Debug\net8.0\MyFirsApp_Netologia.sourcelink.json
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\obj\Debug\net8.0\MyFirsApp_Netologia.dll
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\obj\Debug\net8.0\refint\MyFirsApp_Netologia.dll
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\obj\Debug\net8.0\MyFirsApp_Netologia.pdb
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\obj\Debug\net8.0\MyFirsApp_Netologia.genruntimeconfig.cache
+D:\UNITY\Netologiy\PustovarovN-GUN-43\MyFirsApp_Netologia\obj\Debug\net8.0\ref\MyFirsApp_Netologia.dll

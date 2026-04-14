@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyFirsApp_Netologia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+784f0bee5980a6e484d301cb461b93afe8b82cff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adcea5bb8bfabe9195129d4c68fc991fed8e6fa1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyFirsApp_Netologia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyFirsApp_Netologia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
